@@ -1,4 +1,4 @@
-![logo](https://github.com/anshu-raj-6041/anshu-raj-6041/blob/main/banph.png)
+![logo](https://github.com/anshu-raj-6041/anshu-raj-6041/blob/main/at.png)
 <h1 align="center">Hi 👋, I'm Anshu Raj</h1>
 <h3 align="center">Welcome to my GitHub profile!! I'm a passionate Web Developer and Problem Solver currently pursuing my B.Tech at Haldia Institute of Technology, Haldia. I constantly work on enhancing my skills in Data Structures and Algorithm (DSA) and MERN stack.</h3>
 
